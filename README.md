@@ -1,4 +1,4 @@
-###DetectAI: Professional Text Verifier
+### DetectAI: Professional Text Verifier
 DetectAI is a sophisticated tool designed to distinguish between human-written and AI-generated content. By combining traditional Machine Learning with modern Deep Learning architectures, it provides a dual-layer analysis for maximum accuracy.
 
 ✨ Key Features
@@ -10,15 +10,15 @@ Real-time Metrics: Displays confidence scores, processing speed (~0.4s), and sys
 
 Responsive Design: Optimized for desktop viewing with dynamic color feedback (Green for Human, Red for AI).
 
-###🚀 Installation & Setup
-###Clone the Repo:
+### 🚀 Installation & Setup
+### Clone the Repo:
 ```
 bash
 
 git clone https://github.com/YOUR_USERNAME/hybrid-text-detection.git
 ```
 
-###Install Dependencies:
+### Install Dependencies:
 
 
 ```
@@ -26,7 +26,7 @@ bash
 pip install -r requirements.txt
 ```
 
-###Run the App:
+### Run the App:
 ```
 bash
 streamlit run app.py
