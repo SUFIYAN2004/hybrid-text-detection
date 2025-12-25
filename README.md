@@ -1,4 +1,4 @@
-#####DetectAI: Professional Text Verifier
+###DetectAI: Professional Text Verifier
 DetectAI is a sophisticated tool designed to distinguish between human-written and AI-generated content. By combining traditional Machine Learning with modern Deep Learning architectures, it provides a dual-layer analysis for maximum accuracy.
 
 ✨ Key Features
