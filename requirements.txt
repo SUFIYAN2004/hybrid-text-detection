@@ -4,3 +4,4 @@ joblib
 nltk
 tensorflow
 scikit-learn
+xgboost
