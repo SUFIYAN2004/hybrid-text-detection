@@ -31,8 +31,11 @@ pip install -r requirements.txt
 bash
 streamlit run app.py
 ```
+### 📁 Folder Structure
+```
+bash
 
-
-models/: Pre-trained model files (.pkl and .keras).
-
-requirements.txt: Python dependencies.
+<li>app.py: Main Streamlit application.</li>
+<li>models/: Pre-trained model files (.pkl and .keras).</li>
+<li>requirements.txt: Python dependencies.</li>
+```
