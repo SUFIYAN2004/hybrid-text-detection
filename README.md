@@ -15,7 +15,7 @@ Responsive Design: Optimized for desktop viewing with dynamic color feedback (Gr
 ```
 bash
 
-git clone https://github.com/YOUR_USERNAME/hybrid-text-detection.git
+git clone https://github.com/SUFIYAN2004/hybrid-text-detection.git
 ```
 
 ### Install Dependencies:
