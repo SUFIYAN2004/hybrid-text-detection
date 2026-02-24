@@ -53,8 +53,8 @@ def load_assets():
 
     try:
         if tf:
-            assets['dl_model'] = load_model('models/deeplearning_new_version3_0.keras')
-            with open('models/tokenizer_version3_0.pkl', 'rb') as f:
+            assets['dl_model'] = load_model('models/deeplearning_new_version.keras')
+            with open('models/tokenizer_version.pkl', 'rb') as f:
                 assets['tokenizer'] = pickle.load(f)
             assets['status']['dl'] = True
     except: pass
